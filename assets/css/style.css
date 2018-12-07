@@ -78,18 +78,23 @@ body{
 	list-style: none;
 	text-align: center;
 	font-family: 'Roboto Condensed', sans-serif;
+	background-color: #E72D05;
+	border-radius: 20px;
 
 }
 #wrapper > ul > li 	{
 	display: inline;
 	line-height: 5vh;
 	margin-right: 15px;
+
 	/*background-color: #FF8A33;*/
 }
 
 #wrapper > ul > li > a {
+
 	text-decoration: none;
-	color: #14DB36;
+	font-weight: bold;
+	color: white;
 }
 
 #mainfooter {
